@@ -1,4 +1,5 @@
 LAB 1: RGB to Grayscale, RGB Planes, and Black & White Image Processing
+
 This repository contains a Python script for basic digital image processing tasks using OpenCV and Matplotlib. The script allows you to:
 
 Convert an RGB image to Grayscale (with three different logic options)
@@ -52,5 +53,6 @@ The processed images are displayed using Matplotlib. Example output images are s
 
 Author
 Jayant Kumar
+
 
 Feel free to fork, use, and modify for your digital image processing experiments!
