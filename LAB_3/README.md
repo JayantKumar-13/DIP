@@ -88,7 +88,7 @@ python jayant_shannon.py
 
 **Example:**
 ```
-Enter your message: jayant
+Enter your message: Jayant
 Character Codes:
 'J': 01
 'a': 00
@@ -139,4 +139,5 @@ Both techniques achieve lossless compression but differ in:
 Jayant Kumar
 
 ---
+
 
